@@ -32,3 +32,10 @@ Algunos ambientes de trabajo:
 - Eclipse
 - Notepad++
 - sublimeText3
+
+Seleccionar python como interpretar de este proyecto:
+- ctrl+shift+p
+- Type: 'Python: Select Interpeter'
+- Presionar enter y deberías ver ese interpeter abajo a la izquierda.
+
+Cuando crees un archivo .py, arriba a la derecha te debería aparecer el simbolo para ejecutar el filename.py
