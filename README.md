@@ -12,3 +12,23 @@ Temario:
 - Procesos y tareas.
 - Programación de red. Sockets.
 - Ejercicios prácticos.
+
+Características:
+
+- Muy alto nivel. Gramática sencilla, clara, legible.
+- Tipado dinámico (tipo se generá automáticamente en tiempo de ejecución) y fuerte (distinción muy clara entre tipos).
+- Orientado a objetos.
+  - Sobrecarga de constructores. Herencia múltiple. Encapsulación. Interfaces. Polimorfismo.
+- Open Source.
+- Librería estándar muy amplia.
+- Interpretado.
+- Flexible. Se pueden hacer muchas cosas:
+  - Aplicaciones de escritorio.
+  - Aplicaciones de servidor.
+  - Aplicaciones web.
+  
+La descarga de python de la pagina https://www.python.org/downloads, tambien traeré su propio idle, que es un shell - consola. 
+Algunos ambientes de trabajo:
+- Eclipse
+- Notepad++
+- sublimeText3
