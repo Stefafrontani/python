@@ -39,3 +39,11 @@ Seleccionar python como interpretar de este proyecto:
 - Presionar enter y deberías ver ese interpeter abajo a la izquierda.
 
 Cuando crees un archivo .py, arriba a la derecha te debería aparecer el simbolo para ejecutar el filename.py
+
+Tipos de datos:
+- Numéricos
+  - Enteros
+  - Float - Decimales (coma flotante)
+  - Complejos
+- Textos
+- Boolean
