@@ -47,3 +47,22 @@ Tipos de datos:
   - Complejos
 - Textos
 - Boolean
+
+Listas:
+
+miLista = ['elemento1', 'elemento2', 'elemento3']
+miLista2 = ['elemento4']
+miLista[:] y miLista es lo mismo.
+
+Pueden tener valores negativos como indice. miLista[-2] // elemento1
+
+Acortar lista:
+miLista[0:2] -> 0 incluido : 2 no incluido // [elemento1, elemento2]
+miLista.append(elemento4) -> Agrega al final
+miLista.insert(2, elemento5) -> Agrega en el índice o posición
+miLista.extend(miLista2) -> concatena listas
+miLista + miLista2 -> Mismo resultado que miLista.extend(miLista2)
+miLista.pop(2) -> Te devuelve el elemento del indice, removiendolo de la lista // elemento3
+miLista.index("elemento1") -> Me da posición, si ha repetidos, me da el primero
+miLista.remove("elemento1") -> Remueve ese elemento
+"elemento1" in miLista -> Da boolean si esta o no en la lista // true
